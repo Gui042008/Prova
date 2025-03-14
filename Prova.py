@@ -16,4 +16,4 @@ diferenca = total_ganhos - total_custos
 
 print(f"Total de custos: R${total_custos}")
 print(f"Total de ganhos: R${total_ganhos}")
-print(f"Diferença (ganhos - custos): R${diferenca}")
+print(f"Diferença (ganhos - custos): R${diferenca}") 
